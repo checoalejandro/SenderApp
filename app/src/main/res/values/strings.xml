@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SenderApp</string>
+    <string name="drag_me">Drag Me!</string>
+    <string name="title_activity_second">Second Activity</string>
+</resources>
